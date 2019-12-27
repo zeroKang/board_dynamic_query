@@ -67,7 +67,7 @@ public class TBoardRepositoryCustomImpl extends QuerydslRepositorySupport implem
 
 
 
-    
+
 //
 //    @PersistenceContext
 //    private EntityManager entityManager;
